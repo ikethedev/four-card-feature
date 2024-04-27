@@ -100,6 +100,7 @@ img{
     h2{
         font-size: 20px;
         letter-spacing: 0.25px;
+        padding: 2rem 2rem 0;
     }
    
     section{
@@ -115,6 +116,11 @@ img{
 
     .card_text{
         margin: .25rem 0;
+        padding: 1rem 2rem .5rem;
+    }
+
+    img{
+        margin-bottom: 1.5rem;
     }
 
     .calculator, 
